@@ -92,8 +92,8 @@ font = "Sans Serif"
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Hariharan-T27/student-performance-dashboard.git
-cd student-performance-dashboard
+git clone https://github.com/Hariharan-T27/academic-performance-dashboard.git
+cd student_dashboard
 
 ```
     
