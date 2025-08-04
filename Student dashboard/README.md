@@ -205,7 +205,7 @@ Developed by Hariharan Thirunagari
 
 ## Output Images
 #### Dashboard Overview
-![Dashboard Overview](cc456714-98c8-476c-91ef-37b404a859af.png)
+![Dashboard Overview](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Dashboard%20Overview.png)
 
 #### Correlation Heatmap
 ![Correlation Heatmap](cc456714-98c8-476c-91ef-37b404a859af.png)
