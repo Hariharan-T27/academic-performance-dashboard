@@ -135,8 +135,8 @@ The app will open in your browser at http://localhost:8501.
 #### Correlation Analysis
 ![Correlation Analysis](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Correlation%20Analysis.png)
 
-#### AttendScatterplotance vs Marks
-![AttendScatterplotance vs Marks ](cc456714-98c8-476c-91ef-37b404a859af.png)
+#### Student Insights
+![Student Insights](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Student%20Insights.png)
 
 #### Absentee Impact Analysis
 ![Absentee Impact Analysis](cc456714-98c8-476c-91ef-37b404a859af.png)
