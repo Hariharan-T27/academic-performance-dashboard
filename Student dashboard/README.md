@@ -141,11 +141,9 @@ The app will open in your browser at http://localhost:8501.
 #### Average and At-Risk Students
 ![Average and At-Risk Students](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Student%20Insights%201.png)
 
-#### Student Insights
-![Student Insights](cc456714-98c8-476c-91ef-37b404a859af.png)
-
 #### Risk Categorization
-![Risk Categorization](cc456714-98c8-476c-91ef-37b404a859af.png)
+![Risk Categorization](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Risk%20Categorization.png)
+
 
 
 ## 📤 Data Export Features
