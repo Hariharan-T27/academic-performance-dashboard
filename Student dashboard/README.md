@@ -1,5 +1,5 @@
  # 📊 Student Performance Analytics Dashboard
-![Dashboard](Student dashboard/Output Images/Dashboard.png)
+![Dashboard](https://github.com/Hariharan-T27/academic-performance-dashboard/blob/main/Student%20dashboard/Output%20Images/Dashboard.png)
 
 A **Streamlit-powered analytics dashboard** designed to help educational institutions monitor and improve student outcomes.  
 The dashboard provides **early warnings for at-risk students**, analyzes correlations between academic performance and attendance, and supports data-driven academic interventions.
