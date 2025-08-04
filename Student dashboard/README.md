@@ -127,6 +127,15 @@ streamlit run dashboard.py
 ```
 The app will open in your browser at http://localhost:8501.
 
+### requirements.txt
+```bash
+streamlit
+pandas
+seaborn
+matplotlib
+streamlit-option-menu
+openpyxl
+```
 
 ## Output Images
 #### Dashboard Overview
